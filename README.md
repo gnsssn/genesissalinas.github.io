@@ -1,7 +1,5 @@
 title: "Examen Final"
 description: "Sitio web de examen final creado por GENESIS SALINAS"
-url: "https://tu-usuario.github.io" # Reemplaza con tu nombre de usuario real
-
 author:
   name: "GENESIS SALINAS"
 
